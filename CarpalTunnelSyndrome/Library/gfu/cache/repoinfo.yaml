@@ -13,8 +13,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 1
-  lastUpdatedAtString: 2019-11-18T17:02:59.375-05:00
-  initializedAtString: 2019-11-18T17:02:59.375-05:00
+  lastUpdatedAtString: 2019-11-18T18:55:18.524-05:00
+  initializedAtString: 2019-11-18T18:55:18.524-05:00
   currentGitRemote:
     name: origin
     url: https://github.com/samanehzamanifard/VRProject.git
