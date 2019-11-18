@@ -5,18 +5,18 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Welcom.unity
     guid: b35d68e9f7010426bab861ed40afefc0
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Tutorial.unity
     guid: c6965d579db7c4e65a7bc546afafcf3b
   - enabled: 1
     path: Assets/Scenes/Game.unity
     guid: 0756b4b5641204ba3877962c5f6ac06b
   - enabled: 0
-    path: Assets/__DELETED_GUID_Trash/5b63f16c078474ad8887d06cba54c512
-    guid: 5b63f16c078474ad8887d06cba54c512
+    path: 
+    guid: 00000000000000000000000000000000
   - enabled: 0
     path: Assets/Scenes/shoot.unity
     guid: 58c9420b889e64d6ebf37e08c9aa4dff
